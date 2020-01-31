@@ -18,7 +18,7 @@ class _NoodlesPageState extends State<NoodlesPage> {
   //   );
   // }
   var url =
-      "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/breed.json";
+      "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/lib/noodles.json";
 
   PokeHub pokeHub;
 
