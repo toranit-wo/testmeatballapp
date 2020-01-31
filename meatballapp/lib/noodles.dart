@@ -52,7 +52,7 @@ class _NoodlesPageState extends State<NoodlesPage> {
               child: CircularProgressIndicator(),
             )
           : GridView.count(
-              crossAxisCount: 2,
+              crossAxisCount: 3,
               children: pokeHub.pokemon
                   .map((poke) => Padding(
                         padding: const EdgeInsets.all(2.0),
