@@ -17,7 +17,7 @@ class _VegetablePageState extends State<VegetablePage> {
   //   );
   // }
   var url =
-      "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/lib/meat.json";
+      "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/lib/vegetable.json";
 
   PokeHub pokeHub;
 

@@ -17,7 +17,7 @@ class _ToppingPageState extends State<ToppingPage> {
   //   );
   // }
   var url =
-      "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/lib/meat.json";
+      "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/lib/topping.json";
 
   PokeHub pokeHub;
 
