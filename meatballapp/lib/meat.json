@@ -47,8 +47,8 @@
         "name": ""
       }]
     },{
-      "id": 5,
-      "num": "05",
+      "id": 3,
+      "num": "3",
       "name": "Pork",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/meat.png",
       "type": [
@@ -71,8 +71,8 @@
         "name": ""
       }]
     },{
-      "id": 7,
-      "num": "07",
+      "id": 4,
+      "num": "4",
       "name": "Duck",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/duck.png",
       "type": [
@@ -95,7 +95,7 @@
         "name": ""
       }]
     },{
-      "id": 8,
+      "id": 5,
       "num": "08",
       "name": "Fish",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/salmon.png",
@@ -119,8 +119,8 @@
         "name": ""
       }]
     },{
-      "id": 9,
-      "num": "09",
+      "id": 6,
+      "num": "6",
       "name": "Crab",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/crab.png",
       "type": [
@@ -143,8 +143,8 @@
         "name": ""
       }]
     },{
-      "id": 10,
-      "num": "10",
+      "id": 7,
+      "num": "7",
       "name": "Oyster",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/oyster.png",
       "type": [
@@ -167,8 +167,8 @@
         "name": ""
       }]
     },{
-      "id": 11,
-      "num": "11",
+      "id": 8,
+      "num": "8",
       "name": "Shrimp",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/shrimp.png",
       "type": [
@@ -191,8 +191,8 @@
         "name": ""
       }]
     },{
-      "id": 19,
-      "num": "01",
+      "id": 9,
+      "num": "9",
       "name": "Sea Food",
       "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/animals.png",
       "type": [
@@ -215,10 +215,10 @@
         "name": ""
       }]
     },{
-        "id": 11,
-        "num": "11",
-        "name": "Shrimp",
-        "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/shrimp.png",
+        "id": 10,
+        "num": "10",
+        "name": "Squtd",
+        "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/squid.png",
         "type": [
            "ใจเย็น", " เข้ากับคนง่าย", " เงียบ", "ขี้เล่น"
         ],
