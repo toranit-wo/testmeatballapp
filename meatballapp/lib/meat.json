@@ -3,7 +3,7 @@
       "id": 1,
       "num": "01",
       "name": "Beef",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/beef.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/beef.png",
       "type": [ "เข้ากับคนง่าย" ,"เป็นมิตร","ฉลาด"
       ], 
       "height": "สโนว์ชูเป็นสายพันธุ์ที่ไม่จุกจิก เหมาะอย่างยิ่งกับสภาพแวดล้อมแบบครอบครัว เป็นแมวที่เข้ากับคนง่ายและเป็นมิตร สามารถเลี้ยงร่วมกับสัตว์อื่นและเด็กได้ ส่วนใหญ่แล้วสโนว์ชูจะผูกพันกับคนที่พิเศษแค่คนเดียว แต่ก็สามารถที่จะใกล้ชิดกับคนอื่นๆ ในครอบครัวได้ แมวสายพันธุ์สโนว์ชูมีนิสัยขี้เล่นมากและต้องการให้เจ้าของสนใจ นอกจากนี้พวกมันยังฉลาด อยากรู้อยากเห็น ไม่ชอบอยู่นิ่ง และมีเสียงที่นุ่มน่าฟัง",
@@ -26,7 +26,7 @@
       "id": 2,
       "num": "02",
       "name": "Chicken",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/chicken-breast.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/chicken-breast.png",
       "type": [
         "เข้ากับคนง่าย" ,"เงียบ", "ฉลาด" ,"ขี้อ้อน"
       ],
@@ -50,7 +50,7 @@
       "id": 5,
       "num": "05",
       "name": "Pork",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/meat.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/meat.png",
       "type": [
         "เข้ากับคนง่าย", "พลังเยอะ", "ขี้อ้อน", "ขี้เล่น" 
       ],
@@ -74,7 +74,7 @@
       "id": 7,
       "num": "07",
       "name": "Duck",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/duck.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/duck.png",
       "type": [
         "พลังเยอะ" ,"ฉลาด" , "ขี้อ้อน" , "นิ่ง"  
       ],
@@ -98,7 +98,7 @@
       "id": 8,
       "num": "08",
       "name": "Fish",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/salmon.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/salmon.png",
       "type": [
           "ขี้อ้อน" ,"ไม่ชอบอยู่นิ่ง",  "เข้ากับคนง่าย" 
       ],
@@ -122,7 +122,7 @@
       "id": 9,
       "num": "09",
       "name": "Crab",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/crab.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/crab.png",
       "type": [
         "นิ่ง" ,"ขี้เล่น" ,"ไม่ชอบอยู่นิ่ง"
       ],
@@ -146,7 +146,7 @@
       "id": 10,
       "num": "10",
       "name": "Oyster",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/oyster.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/oyster.png",
       "type": [
          "เข้ากับคนง่าย" , "ไม่ชอบอยู่นิ่ง", "ขี้เล่น"
       ],
@@ -170,7 +170,7 @@
       "id": 11,
       "num": "11",
       "name": "Shrimp",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/shrimp.png",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/shrimp.png",
       "type": [
          "ใจเย็น", " เข้ากับคนง่าย", " เงียบ", "ขี้เล่น"
       ],
@@ -191,10 +191,10 @@
         "name": ""
       }]
     },{
-      "id": 13,
-      "num": "13",
-      "name": "Squid",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/squid.png",
+      "id": 19,
+      "num": "01",
+      "name": "Sea Food",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/animals.png",
       "type": [
         "เงียบ", "ใจเย็น",  "ร่าเริง" , "เป็นที่รัก"
       ],
@@ -214,6 +214,30 @@
         "num": "013",
         "name": ""
       }]
-    }
+    },{
+        "id": 11,
+        "num": "11",
+        "name": "Shrimp",
+        "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/BeefType/shrimp.png",
+        "type": [
+           "ใจเย็น", " เข้ากับคนง่าย", " เงียบ", "ขี้เล่น"
+        ],
+        "height": "แมวพันธุ์แมงซ์เป็นแมวที่นิ่งมากและมีความฉลาดในการเข้าสังคมอย่างมาก แมวพันธุ์นี้ชอบอยู่ใกล้ชิดกับคนและสร้างความสัมพันธ์ที่แน่นแฟ้นกับคนในครอบครัว แมวพันธุ์แมงซ์เข้ากับเด็กๆ และสัตว์เลี้ยงอื่นได้ดีถ้ามีการทำความรู้จักอย่างถูกวิธี แมวสายพันธุ์นี้ใจเย็นและนิ่ง ชอบแสดงความรักมาก และไม่ชอบอยู่ตามลำพังเป็นเวลานานๆ ถ้าจำเป็นต้องปล่อยให้อยู่บ้านตามลำพังบ่อยๆ ควรพิจารณารับเลี้ยงแมวพันธุ์แมงซ์อีกตัว เพื่อจะได้อยู่เป็นเพื่อนกัน",
+        "weight": "เหมาะสำหรับเลี้ยงภายในบ้านและนอกบ้าน",
+        "candy": "ดีต่อผู้คน",
+        "candy_count": 25,
+        "egg": "สหราชอาณาจักร",
+        "spawn_chance": 0.69,
+        "avg_spawns": 69,
+        "spawn_time": "20:00",
+        "multipliers": [1.58],
+        "weaknesses": [
+          
+        ],
+        "next_evolution": [{
+          "num": "011",
+          "name": ""
+        }]
+      }
   ]
   }
