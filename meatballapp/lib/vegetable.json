@@ -2,8 +2,8 @@
     "pokemon": [{
       "id": 1,
       "num": "01",
-      "name": "pppppppppppppppp",
-      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/unnamed.png",
+      "name": "Broccoli",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/broccoli.png",
       "type": [ "เข้ากับคนง่าย" ,"เป็นมิตร","ฉลาด"
       ], 
       "height": "สโนว์ชูเป็นสายพันธุ์ที่ไม่จุกจิก เหมาะอย่างยิ่งกับสภาพแวดล้อมแบบครอบครัว เป็นแมวที่เข้ากับคนง่ายและเป็นมิตร สามารถเลี้ยงร่วมกับสัตว์อื่นและเด็กได้ ส่วนใหญ่แล้วสโนว์ชูจะผูกพันกับคนที่พิเศษแค่คนเดียว แต่ก็สามารถที่จะใกล้ชิดกับคนอื่นๆ ในครอบครัวได้ แมวสายพันธุ์สโนว์ชูมีนิสัยขี้เล่นมากและต้องการให้เจ้าของสนใจ นอกจากนี้พวกมันยังฉลาด อยากรู้อยากเห็น ไม่ชอบอยู่นิ่ง และมีเสียงที่นุ่มน่าฟัง",
@@ -25,8 +25,8 @@
     }, {
       "id": 2,
       "num": "02",
-      "name": "American Curl",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat2.png",
+      "name": "Carrot",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/carrot.png",
       "type": [
         "เข้ากับคนง่าย" ,"เงียบ", "ฉลาด" ,"ขี้อ้อน"
       ],
@@ -47,10 +47,10 @@
         "name": ""
       }]
     },{
-      "id": 5,
-      "num": "05",
-      "name": "Devon Rex",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat5.png",
+      "id": 3,
+      "num": "03",
+      "name": "Cabbage",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/food.png",
       "type": [
         "เข้ากับคนง่าย", "พลังเยอะ", "ขี้อ้อน", "ขี้เล่น" 
       ],
@@ -71,10 +71,10 @@
         "name": ""
       }]
     },{
-      "id": 6,
-      "num": "06",
-      "name": "Exotic Shorthair",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat6.png",
+      "id": 4,
+      "num": "04",
+      "name": "Ginger",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/ginger.png",
       "type": [
         "นิ่ง", "เงียบ" , "เข้ากับคนง่าย"
       ],
@@ -95,10 +95,10 @@
         "name": ""
       }]
     },{
-      "id": 7,
-      "num": "07",
-      "name": "korat",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat7.png",
+      "id": 5,
+      "num": "05",
+      "name": "Leek",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/leek.png",
       "type": [
         "พลังเยอะ" ,"ฉลาด" , "ขี้อ้อน" , "นิ่ง"  
       ],
@@ -119,10 +119,10 @@
         "name": ""
       }]
     },{
-      "id": 8,
-      "num": "08",
-      "name": "Laperm",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat8.png",
+      "id": 6,
+      "num": "06",
+      "name": "Lettuce",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/lettuce.png",
       "type": [
           "ขี้อ้อน" ,"ไม่ชอบอยู่นิ่ง",  "เข้ากับคนง่าย" 
       ],
@@ -143,10 +143,10 @@
         "name": ""
       }]
     },{
-      "id": 9,
-      "num": "09",
-      "name": "Norwegian Forest",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat9.png",
+      "id": 7,
+      "num": "07",
+      "name": "Mushroom",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/mushroom.png",
       "type": [
         "นิ่ง" ,"ขี้เล่น" ,"ไม่ชอบอยู่นิ่ง"
       ],
@@ -167,10 +167,10 @@
         "name": ""
       }]
     },{
-      "id": 10,
+      "id": 8,
       "num": "10",
-      "name": "Pixie Bob",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat10.png",
+      "name": "Shiitake mushrooms",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/mushrooms.png",
       "type": [
          "เข้ากับคนง่าย" , "ไม่ชอบอยู่นิ่ง", "ขี้เล่น"
       ],
@@ -191,10 +191,10 @@
         "name": ""
       }]
     },{
-      "id": 11,
-      "num": "11",
-      "name": "Manx",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat11.png",
+      "id": 9,
+      "num": "09",
+      "name": "Potato",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/potato.png",
       "type": [
          "ใจเย็น", " เข้ากับคนง่าย", " เงียบ", "ขี้เล่น"
       ],
@@ -215,10 +215,10 @@
         "name": ""
       }]
     },{
-      "id": 13,
-      "num": "13",
-      "name": "Selkirk Rex",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat13.png",
+      "id": 10,
+      "num": "10",
+      "name": "Spinach",
+      "img": "https://raw.githubusercontent.com/toranit2541/testmeatballapp/master/meatballapp/images/alldetail/VegetableType/spinach.png",
       "type": [
         "เงียบ", "ใจเย็น",  "ร่าเริง" , "เป็นที่รัก"
       ],
@@ -236,78 +236,6 @@
       ],
       "next_evolution": [{
         "num": "013",
-        "name": ""
-      }]
-    },{
-      "id": 15,
-      "num": "15",
-      "name": "Somali",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat15.png",
-      "type": [
-        "ไม่ชอบอยู่นิ่ง", "ฉลาด",  "ขี้อ้อน" , "ขี้เล่น"
-      ],
-      "height": "แมวโซมาลีเป็นแมวขนยาวลูกพี่ลูกน้องของแมวอะบิสซิเนียน แมวโซมาลีคือส่วนผสมของความงามและบุคลิกภาพ แมวมีทุกอย่างยอดเยี่ยมอย่างที่คนส่วนใหญ่ต้องการในสัตว์เลี้ยงคู่ใจ: ร่าเริง ตื่นตัว และจดจ่อกับทุกสิ่งที่กระตุ้นความอยากรู้อยากเห็น แต่เมื่อเล่นจบแล้ว แมวจะอยากได้ความสนใจและความรักจากเจ้าของ",
-      "weight": "ต้องมีรั้วล้อมพื้นที่นอกบ้าน",
-      "candy": "ต้องการการออกกำลังกายอย่างมาก",
-      "candy_count": 25,
-      "egg": "โซมาเลีย",
-      "spawn_chance": 0.69,
-      "avg_spawns": 69,
-      "spawn_time": "20:00",
-      "multipliers": [1.58],
-      "weaknesses": [
-        
-      ],
-      "next_evolution": [{
-        "num": "015",
-        "name": ""
-      }]
-    },{
-      "id": 16,
-      "num": "16",
-      "name": "Sphynx",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat16.png",
-      "type": [
-        "ไม่ชอบอยู่นิ่ง", "เข้ากับคนง่าย",  "ขี้อ้อน" 
-      ],
-      "height": "ดอน สฟิงซ์เป็นแมวที่ไม่ชอบอยู่นิ่ง มีความเป็นมิตรสูง ฉลาดและเป็นที่รักอย่างมาก ซื่อสัตย์ และทุ่มเทให้กับเจ้าของ ดอน สฟิงซ์นิสัยดี อ่อนโยน แปรงขนและจัดการได้ง่าย แมวสายพันธุ์นี้มีบุคลิกภาพที่สมดุล สนใจสิ่งรอบตัวอย่างกระตือรือร้น และเพลิดเพลินกับการสร้างสรรค์การละเล่น สายพันธุ์ดอน สฟิงซ์มีขน 4 แบบในสีต่าง ๆ ขนเหล่านี้เรียกว่า Rubber Bald, Flock, Velor และ Brush ดอน สฟิงซ์มียีนเด่นที่ทำให้ขนร่วงซึ่งทำให้ขนที่มีมาแต่กำเนิดหลุดร่วง ถ้ายังมีอยู่ เป็นที่รู้กันว่าขนทุกแบบ ยกเว้น Brush จะร่วงทั้งตั้งแต่ตอนเกิดและเมื่อโตขึ้น",
-      "weight": "เหมาะสำหรับเลี้ยงภายในบ้านที่สุด",
-      "candy": "ชอบอยู่เป็นคู่มากที่สุด",
-      "candy_count": 25,
-      "egg": "รัสเซีย",
-      "spawn_chance": 0.69,
-      "avg_spawns": 69,
-      "spawn_time": "20:00",
-      "multipliers": [1.58],
-      "weaknesses": [
-        
-      ],
-      "next_evolution": [{
-        "num": "016",
-        "name": ""
-      }]
-    },{
-      "id": 17,
-      "num": "17",
-      "name": "Tonkinese",
-      "img": "https://raw.githubusercontent.com/duenchay/chaomeaw/master/chaomeawmeow/assets/images/cat17.png",
-      "type": [
-        "ไม่ชอบอยู่นิ่ง", "เป็นมิตร",  "ขี้อ้อน" , "ตื่นตัว"
-      ],
-      "height": "แมวสายพันธุ์ท็องกินิสชอบอยู่ใกล้ชิดคน และยังชอบที่จะเป็นจุดสนใจอีกด้วย ท็องกินิสเป็นแมวที่เข้ากับคนง่ายมาก และชอบอยู่อาศัยร่วมกับแมวตัวอื่นๆ ด้วยความที่ฉลาดและเป็นมิตร แมวสายพันธุ์ท็องกินิสจะพยายามเข้าไปมีส่วนร่วมกับทุกกิจกรรมภายในบ้าน",
-      "weight": "เหมาะสำหรับเลี้ยงภายในบ้านและนอกบ้าน",
-      "candy": "ต้องการการเอาใจใส่อย่างมาก",
-      "candy_count": 25,
-      "egg": "พม่า",
-      "spawn_chance": 0.69,
-      "avg_spawns": 69,
-      "spawn_time": "20:00",
-      "multipliers": [1.58],
-      "weaknesses": [
-        
-      ],
-      "next_evolution": [{
-        "num": "017",
         "name": ""
       }]
     }
