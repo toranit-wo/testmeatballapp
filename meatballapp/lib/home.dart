@@ -6,7 +6,7 @@ import 'package:meatballapp/noodles.dart';
 import 'package:meatballapp/topping.dart';
 import 'package:meatballapp/vegetable.dart';
 
-class MyApp extends StatelessWidget {
+class Myyy extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(home: new MyHome());
