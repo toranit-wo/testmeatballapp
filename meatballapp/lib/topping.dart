@@ -39,10 +39,10 @@ class _ToppingPageState extends State<ToppingPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.brown,
       appBar: AppBar(
         title: Text("Breed"),
-        backgroundColor: Colors.tealAccent,
+        backgroundColor: Colors.deepOrange,
       ),
       body: pokeHub == null
           ? Center(
@@ -89,7 +89,7 @@ class _ToppingPageState extends State<ToppingPage> {
                                   )
                                 ],
                               ),
-                              color: Colors.cyan[200],
+                              color: Colors.brown[200],
                             ),
                           ),
                         ),
